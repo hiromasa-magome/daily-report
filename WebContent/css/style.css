@@ -11,6 +11,12 @@ body {
     background-color: #333333;
 }
 
+#header_kacho {
+    width: 100%;
+    height: 70px;
+    background-color: #00b7ff
+}
+
 #content {
     width: 94%;
     margin-top: 15px;
